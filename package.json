@@ -1,0 +1,18 @@
+{
+  "name": "azure-iot-stream-analytics-avro-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Gallant",
+  "license": "MIT",
+  "dependencies": {
+    "avsc": "^5.0.1",
+    "azure-iot-device": "^1.1.10",
+    "azure-iot-device-amqp": "^1.1.10",
+    "dotenv": "^4.0.0",
+    "memory-streams": "^0.1.2"
+  }
+}
